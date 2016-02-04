@@ -1,0 +1,8 @@
+/home/noritsugu/workspace/caffe/models/bvlc_googlenet/train_val.prototxt
+/home/noritsugu/workspace/caffe/models/bvlc_googlenet/#train_val.prototxt#
+/home/noritsugu/workspace/caffe/models/bvlc_reference_caffenet/train_val.prototxt
+/home/noritsugu/workspace/caffe/models/bvlc_reference_caffenet/#train_val.prototxt#
+/home/noritsugu/workspace/caffe/models/bvlc_googlenet/solver.prototxt
+/home/noritsugu/workspace/caffe/models/bvlc_googlenet/#solver.prototxt#
+/home/noritsugu/workspace/caffe/run.sh
+/home/noritsugu/workspace/caffe/#run.sh#
